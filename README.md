@@ -8,6 +8,7 @@ Handling Jira issues.
  - Ticket 991141921
  - Ticket 805636961
  - Ticket 348743072
+ - Ticket 507382768
 
 
 ## Contact Info
