@@ -1,6 +1,7 @@
 # kbc_demo
 
-## Overview 
+## Overview
+Handling Jira issues.
 
 ## List of Issues handled
  - Ticket 991141921
