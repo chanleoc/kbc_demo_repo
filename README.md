@@ -12,7 +12,4 @@
 
 
 ## Contact Info
-Leo Chan
-Vancouver, Canada (PST time) 
-Email: leo@keboola.com
-Private: cleojanten@hotmail.com
+fisa@keboola.com
