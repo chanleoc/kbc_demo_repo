@@ -2,13 +2,8 @@
 
 ## Overview 
 
-## API documentationm
-
-## Requirements (optional)
-
-## Configurations
-
-## RAW JSON Configuration  (if exist)
+## List of Issues handled
+ - Ticket 991141921
 
 
 ## Contact Info
