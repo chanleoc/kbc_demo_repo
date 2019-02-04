@@ -8,7 +8,7 @@
 
 ## Configurations
 
-## RAW JSON Configuration (if exist)
+## RAW JSON Configuration  (if exist)
 
 
 ## Contact Info
